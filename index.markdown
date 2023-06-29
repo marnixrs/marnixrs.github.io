@@ -7,7 +7,7 @@ layout: home
 ---
 
 
-<span id="introduction"></span>
+## About Me
 
 I am a PhD student at the Department of Software Science at Radboud University, working on the project Provably Correct Policies for Uncertain Partially Observable Markov Decision Processes under the supervision of dr. Nils Jansen and prof. dr. Frits Vaandrager. 
 
@@ -26,7 +26,6 @@ See also my DBLP or Google Scholar profiles.
 {% bibliography %}
 
 
-<span id="professional"></span>
 
 ## Professional Activities 
 
