@@ -11,6 +11,10 @@ socials:
   Dribbble: "#"
 
 
+domain: marnixrs.github.io       # if you want to force HTTPS, specify the domain without the http at the start, e.g. example.com
+url: https://marnixrs.github.io  # the base hostname and protocol for your site, e.g. http://example.com
+baseurl: /marnixrs.github.io/ 
+
 scholar:
 
   last_name: [Suilen]
