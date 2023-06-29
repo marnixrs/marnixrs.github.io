@@ -4,4 +4,65 @@
 
 layout: home
 ---
-TEst test test
+
+
+
+I am a PhD student at the Department of Software Science at Radboud University, working on the project Provably Correct Policies for Uncertain Partially Observable Markov Decision Processes under the supervision of dr. Nils Jansen and prof. dr. Frits Vaandrager.
+
+My research interests are formal verification and learning in probabilistic systems, such as (partially observable) Markov decision processes and variations that extend these models with uncertainty. Other interests include coalgebra (especially for probabilistic systems), (robust) convex optimization, and algorithms in general.
+
+You can reach me at m.suilen {AT} science.ru.nl
+
+### Publications
+
+See also my DBLP or Google Scholar profiles.
+
+
+### Professional Activities
+
+#### Talks and Presentations
+
+Dependable Decision-Making Under Uncertainty: Beyond Probabilities. University of Oxford, UK, 2023.
+Safe Policy Improvement for POMDPs. LiVe 2023.
+Safe Policy Improvement for POMDPs via Finite-State Controllers. AAAI 2023.
+Robust Anytime Learning of Markov Decision Processes. NeurIPS 2022.
+Decision-Making and Learning under Uncertainty. Lorentz Center workshop on Rigorous Automated Planning, 2022.
+Decision-Making and Learning under Uncertainty. ROCKS 2022.
+Anytime Learning and Verification of Uncertain Markov Decision Processes. LiVe 2022.
+Unraveling Uncertainty in POMDPs. RWTH Aachen, Germany, 2021.
+Robust Policies for Uncertain POMDPs. R4P 2021.
+Robust Policies for Uncertain POMDPs. FUNCTION 2021.
+Robust Policy Synthesis for Uncertain POMDPs via Convex Optimization. IJCAI 2020.
+
+#### Visits
+
+University of Oxford. May 2023.
+RWTH Aachen. Oktober 2022.
+
+#### Teaching
+
+**As a lecturer**:
+Model Checking. Master course, spring 2023, lectures on bisimulations, robust MDPs, and POMDPs.
+Model Checking. Master course, spring 2022, lectures on bisimulations and POMDPs.
+
+**As a teaching assistant**:
+Algorithms and Datastructures. Bachelor course, fall 2022, practical assignment.
+Mathematical Foundations of Computer Science Seminar. Master course, fall 2022.
+Model Checking. Master course, spring 2022.
+Mathematical Foundations of Computer Science Seminar, Master course, fall 2021.
+Model Checking. Master course, spring 2021.
+Model Checking. Master course, spring 2020.
+Algorithms and Datastructures. Bachelor course, fall 2019.
+Algorithms and Datastructures. Bachelor course, fall 2018.
+
+#### Other
+
+Student volunteer for FORMATS 2020, part of QONFEST 2020.
+
+#### Travels
+
+I have been lucky enough to travel to the following places: Oxford, UK; Paris, France; Delft, The Netherlands; Washington DC, USA; Leiden, The Netherlands; Munich, Germany; Aachen, Germany; Schloss Dagstuhl, Germany. 
+
+
+
+
