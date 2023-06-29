@@ -7,13 +7,14 @@ layout: home
 ---
 
 
-
+<span id="intro"></span>
 I am a PhD student at the Department of Software Science at Radboud University, working on the project Provably Correct Policies for Uncertain Partially Observable Markov Decision Processes under the supervision of dr. Nils Jansen and prof. dr. Frits Vaandrager. 
 
 My research interests are formal verification and learning in probabilistic systems, such as (partially observable) Markov decision processes and variations that extend these models with uncertainty. Other interests include coalgebra (especially for probabilistic systems), (robust) convex optimization, and algorithms in general. 
 
 You can reach me at m.suilen {AT} science.ru.nl 
 
+<span id="publications"></span>
 ## Publications 
 
 See also my DBLP or Google Scholar profiles. 
@@ -22,7 +23,7 @@ See also my DBLP or Google Scholar profiles.
 {% bibliography %}
 
 
-
+<span id="profact"></span>
 ## Professional Activities 
 
 ### Talks and Presentations 
