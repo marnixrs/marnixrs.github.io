@@ -17,6 +17,15 @@ You can reach me at m.suilen {AT} science.ru.nl
 
 See also my DBLP or Google Scholar profiles.
 
+<div class="publications">
+
+{%- for y in page.years %}
+  <h2 class="year">{{y}}</h2>
+  {% bibliography -f papers -q @*[year={{y}}]* --template bib %}
+{% endfor %}
+
+</div>
+
 
 ### Professional Activities
 
