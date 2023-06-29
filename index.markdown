@@ -14,7 +14,7 @@ My research interests are formal verification and learning in probabilistic syst
 
 You can reach me at m.suilen {AT} science.ru.nl
 
-### Publications
+## Publications
 
 See also my DBLP or Google Scholar profiles.
 
@@ -28,9 +28,9 @@ See also my DBLP or Google Scholar profiles.
 </div>
 
 
-### Professional Activities
+## Professional Activities
 
-#### Talks and Presentations
+### Talks and Presentations
 
 Dependable Decision-Making Under Uncertainty: Beyond Probabilities. University of Oxford, UK, 2023.
 Safe Policy Improvement for POMDPs. LiVe 2023.
@@ -44,12 +44,12 @@ Robust Policies for Uncertain POMDPs. R4P 2021.
 Robust Policies for Uncertain POMDPs. FUNCTION 2021.
 Robust Policy Synthesis for Uncertain POMDPs via Convex Optimization. IJCAI 2020.
 
-#### Visits
+### Visits
 
 University of Oxford. May 2023.
 RWTH Aachen. Oktober 2022.
 
-#### Teaching
+### Teaching
 
 **As a lecturer**:
 Model Checking. Master course, spring 2023, lectures on bisimulations, robust MDPs, and POMDPs.
@@ -65,11 +65,11 @@ Model Checking. Master course, spring 2020.
 Algorithms and Datastructures. Bachelor course, fall 2019.
 Algorithms and Datastructures. Bachelor course, fall 2018.
 
-#### Other
+### Other
 
 Student volunteer for FORMATS 2020, part of QONFEST 2020.
 
-#### Travels
+### Travels
 
 I have been lucky enough to travel to the following places: Oxford, UK; Paris, France; Delft, The Netherlands; Washington DC, USA; Leiden, The Netherlands; Munich, Germany; Aachen, Germany; Schloss Dagstuhl, Germany. 
 
