@@ -21,7 +21,7 @@ See also my DBLP or Google Scholar profiles.
 
 {%- for y in page.years %}
   **{{y}}**
-  {% bibliography -f references -q @*[year={{y}}]* %}
+  {% bibliography -f references -q @*[year={{y}}]* --bibliography_list_tag ul %}
 {% endfor %}
 
 
