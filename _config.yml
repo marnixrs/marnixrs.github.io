@@ -20,7 +20,7 @@ scholar:
   last_name: [Suilen]
   first_name: [Marnix]
 
-  style: springer-lecture-notes-in-computer-science
+  style: apa
   locale: en
 
   source: /_bibliography/
