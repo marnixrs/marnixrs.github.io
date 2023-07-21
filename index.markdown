@@ -21,7 +21,7 @@ See also my DBLP or Google Scholar profiles.
 
 {%- for y in page.years %}
   <h2 class="year">{{y}}</h2>
-  {% bibliography -f papers -q @*[year={{y}}]* --template bib %}
+  {% bibliography -q @*[year={{y}}]* --template bib %}
 {% endfor %}
 
 
