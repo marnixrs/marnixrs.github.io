@@ -6,8 +6,8 @@ years: [2023, 2022, 2021, 2020, 2019, 2018, 2017]
 layout: home
 sections:
   spotlight: |
-    I am a PhD student at the Department of Software Science at Radboud University, working on the project Provably Correct Policies for Uncertain Partially Observable Markov Decision Processes under the supervision of dr. Nils Jansen and prof. dr. Frits Vaandrager. <be><be>
-    My research interests are formal verification and learning in probabilistic systems, such as (partially observable) Markov decision processes and variations that extend these models with uncertainty. Other interests include coalgebra (especially for probabilistic systems), (robust) convex optimization, and algorithms in general. <be><be>
+    I am a PhD student at the Department of Software Science at Radboud University, working on the project Provably Correct Policies for Uncertain Partially Observable Markov Decision Processes under the supervision of dr. Nils Jansen and prof. dr. Frits Vaandrager. <br><br>
+    My research interests are formal verification and learning in probabilistic systems, such as (partially observable) Markov decision processes and variations that extend these models with uncertainty. Other interests include coalgebra (especially for probabilistic systems), (robust) convex optimization, and algorithms in general. <br><br>
     You can reach me at marnix.suilen {AT} ru.nl.
 ---
 
