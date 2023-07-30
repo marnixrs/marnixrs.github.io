@@ -8,7 +8,7 @@
 			
 			{%- for y in page.years %}
   				<b>{{y}}</b>
-  				{% bibliography -f references -q @*[year={{y}}]* --template bib %}
+  				{% bibliography -f references -q @*[year={{y}}]* --template bib.html %}
 			{% endfor %}
                   </tbody>
                 </table>
