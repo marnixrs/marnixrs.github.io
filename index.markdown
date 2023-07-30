@@ -11,9 +11,9 @@ sections:
     You can reach me at marnix.suilen {AT} ru.nl.
   publications: |
     	{%- for y in page.years %}
-  				<b>{{y}}</b>
-  				{% bibliography -f references -q @*[year={{y}}]* --template bib %}
-			{% endfor %}
+  		<b>{{y}}</b>
+  		{% bibliography -f references -q @*[year={{y}}]* --template bib %}
+	{% endfor %}
 ---
 
 
