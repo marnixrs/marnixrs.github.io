@@ -5,11 +5,7 @@
 <div class="table-wrapper">
 								<table>
 									<tbody>
-			
-			{%- for y in page.years %}
-  				<b>{{y}}</b>
-  				{% bibliography -f references -q @*[year={{y}}]* %}
-			{% endfor %}
+			{{ page.sections['spotlight'] | textilize }}
                   </tbody>
                 </table>
 </div>
