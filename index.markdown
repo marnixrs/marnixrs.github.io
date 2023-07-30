@@ -10,10 +10,10 @@ sections:
     My research interests are formal verification and learning in probabilistic systems, such as (partially observable) Markov decision processes and variations that extend these models with uncertainty. Other interests include coalgebra (especially for probabilistic systems), (robust) convex optimization, and algorithms in general. <br><br>
     You can reach me at marnix.suilen {AT} ru.nl.
   publications: |
-    	{%- for y in page.years %}
-  		<b>{{y}}</b>
-  		{% bibliography -f references -q @*[year={{y}}]* --template bib %}
-	{% endfor %}
+    {%- for y in page.years %}
+      <b>{{y}}</b>
+      {% bibliography -f references -q @*[year={{y}}]* --template bib %}
+    {% endfor %}
 ---
 
 
