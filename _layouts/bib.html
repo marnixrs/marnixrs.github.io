@@ -49,7 +49,7 @@
           {%- endfor -%}
           {%- assign more_authors = author_array_size | minus: author_array_limit -%}
           
-         . <em>{{entry.title}}.</em>
+         .</br> <em>{{entry.title}}.</em> </br>
 
       {% assign proceedings = "inproceedings, incollection" | split: ','%}
           {% if entry.type == "article" -%}
