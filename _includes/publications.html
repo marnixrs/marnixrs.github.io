@@ -2,11 +2,9 @@
 <h2>Publications</h2>
 			<p>See also my <a href="https://dblp1.uni-trier.de/pers/hd/s/Suilen:Marnix">DBLP</a> or <a href="https://scholar.google.com/citations?user=8sS0Vv0AAAAJ">Google scholar</a> profiles.</p>
 <div class="table-wrapper">
-								<table>
+	
+			{% bibliography -f references --template bib --bibliography_list_tag table %} 
 
-			{% bibliography -f references --template bib --bibliography_list_tag tbody %} 
-
-                </table>
 </div>
 
 <!-- --bibliography_list_tag ul -->
