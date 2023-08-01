@@ -5,7 +5,7 @@
 <div class="table-wrapper">
 								<table>
 									<tbody>
-			{%- for y in page.years %} {{y}} {% bibliography -f references -q @*[year={{y}}]* --template bib %} {% endfor %} 
+			{% bibliography -f references -q @*[year={{y}}]* --template bib %} 
                   </tbody>
                 </table>
 </div>
