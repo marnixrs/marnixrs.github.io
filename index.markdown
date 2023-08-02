@@ -6,8 +6,9 @@ years: [2023, 2022, 2021, 2020]
 layout: home
 sections:
   spotlight: |
-    I am a PhD student at the Department of Software Science at Radboud University, working on the project Provably Correct Policies for Uncertain Partially Observable Markov Decision Processes under the supervision of dr. Nils Jansen and prof. dr. Frits Vaandrager. <br><br>
-    My research interests are formal verification and learning in probabilistic systems, such as (partially observable) Markov decision processes and variations that extend these models with uncertainty. Other interests include coalgebra (especially for probabilistic systems), (robust) convex optimization, and algorithms in general. <br><br>
+    I am a PhD candidate at the [Department of Software Science](https://sws.cs.ru.nl/) at [Radboud University Nijmegen](https://www.ru.nl/), working on the project Provably Correct Policies for Uncertain Partially Observable Markov Decision Processes under the supervision of [dr. Nils Jansen](https://nilsjansen.org/) and [prof. dr. Frits Vaandrager](https://www.cs.ru.nl/F.Vaandrager/). <br><br>
+    My research is at the intersection of formal methods and AI. 
+    Specific interests are planning and learning in Markov decision processes (MDPs) and variations that extend these models with uncertainty, such as robust MDPs and partially observable MDPs. <br><br>
     You can reach me at marnix.suilen {AT} ru.nl.
 ---
 
@@ -17,42 +18,43 @@ sections:
 
 ### Talks and Presentations 
 
-- Dependable Decision-Making Under Uncertainty: Beyond Probabilities. University of Oxford, UK, 2023. <br>
-- Safe Policy Improvement for POMDPs. LiVe 2023. <br>
-- Safe Policy Improvement for POMDPs via Finite-State Controllers. AAAI 2023. <br>
-- Robust Anytime Learning of Markov Decision Processes. NeurIPS 2022. <br>
-- Decision-Making and Learning under Uncertainty. Lorentz Center workshop on Rigorous Automated Planning, 2022. <br>
-- Decision-Making and Learning under Uncertainty. ROCKS 2022. <br>
-- Anytime Learning and Verification of Uncertain Markov Decision Processes. LiVe 2022. <br>
-- Unraveling Uncertainty in POMDPs. RWTH Aachen, Germany, 2021. <br>
-- Robust Policies for Uncertain POMDPs. R4P 2021. <br>
-- Robust Policies for Uncertain POMDPs. FUNCTION 2021. <br>
-- Robust Policy Synthesis for Uncertain POMDPs via Convex Optimization. IJCAI 2020. <br>
+- Dependable Decision-Making Under Uncertainty: Beyond Probabilities. University of Oxford, UK, 2023.
+- Safe Policy Improvement for POMDPs. [LiVe 2023](https://www7.in.tum.de/~kretinsk/LiVe2023.html). 
+- Safe Policy Improvement for POMDPs via Finite-State Controllers. AAAI 2023. 
+- Robust Anytime Learning of Markov Decision Processes. NeurIPS 2022. 
+- Decision-Making and Learning under Uncertainty. Lorentz Center workshop on [Rigorous Automated Planning](), 2022. 
+- Decision-Making and Learning under Uncertainty. [ROCKS 2022](https://www.modestchecker.net/rocks2022/). 
+- Anytime Learning and Verification of Uncertain Markov Decision Processes. [LiVe 2022](https://www7.in.tum.de/~kretinsk/LiVe2022.html). 
+- Unraveling Uncertainty in POMDPs. RWTH Aachen, Germany, 2021. 
+- Robust Policies for Uncertain POMDPs. [R4P 2021](https://sites.google.com/view/r4p2021/overview). 
+- Robust Policies for Uncertain POMDPs. [FUNCTION 2021](https://function-2021.cs.ru.nl/). 
+- Robust Policy Synthesis for Uncertain POMDPs via Convex Optimization. IJCAI 2020. 
 
 ### Visits
 
-- University of Oxford. May 2023. <br>
-- RWTH Aachen. Oktober 2022. <br>
+- University of Oxford. One week, May 2023. 
+- RWTH Aachen. Three days, Oktober 2022. 
 
 ### Teaching
 
 **As a lecturer**: <br>
-- Model Checking. Master course, spring 2023, lectures on bisimulations, robust MDPs, and POMDPs. <br>
-- Model Checking. Master course, spring 2022, lectures on bisimulations and POMDPs. <br>
+- Model Checking. Master course, spring 2023, lectures on bisimulations, robust MDPs, and POMDPs. 
+- Model Checking. Master course, spring 2022, lectures on bisimulations and POMDPs. 
 
 **As a teaching assistant**: <br>
-- Algorithms and Datastructures. Bachelor course, fall 2022, practical assignment. <br>
-- Mathematical Foundations of Computer Science Seminar. Master course, fall 2022. <br>
-- Model Checking. Master course, spring 2022. <br>
-- Mathematical Foundations of Computer Science Seminar, Master course, fall 2021. <br>
-- Model Checking. Master course, spring 2021. <br>
-- Model Checking. Master course, spring 2020. <br>
-- Algorithms and Datastructures. Bachelor course, fall 2019. <br>
-- Algorithms and Datastructures. Bachelor course, fall 2018. <br>
+- Algorithms and Datastructures. Bachelor course, fall 2022, practical assignment. 
+- Mathematical Foundations of Computer Science Seminar. Master course, fall 2022. 
+- Model Checking. Master course, spring 2022. 
+- Mathematical Foundations of Computer Science Seminar, Master course, fall 2021. 
+- Model Checking. Master course, spring 2021. 
+- Model Checking. Master course, spring 2020. 
+- Algorithms and Datastructures. Bachelor course, fall 2019. 
+- Algorithms and Datastructures. Bachelor course, fall 2018. 
 
 ### Other 
 
-- Student volunteer for FORMATS 2020, part of QONFEST 2020. <br>
+- Representative for the Department of Software Science in the iCIS Graduate School Council.
+- Student volunteer for [FORMATS 2020](https://formats-2020.cs.ru.nl/), part of [QONFEST 2020](https://qonfest2020.github.io/). 
 
 ### Travels 
 
