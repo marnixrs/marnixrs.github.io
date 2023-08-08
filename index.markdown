@@ -1,11 +1,5 @@
 ---
 layout: home
-sections:
-  spotlight: |
-    I am a PhD candidate at the [Department of Software Science](https://sws.cs.ru.nl/) at [Radboud University Nijmegen](https://www.ru.nl/), working on the project Provably Correct Policies for Uncertain Partially Observable Markov Decision Processes under the supervision of [dr. Nils Jansen](https://nilsjansen.org/) and [prof. dr. Frits Vaandrager](https://www.cs.ru.nl/F.Vaandrager/). <br><br>
-    My research is at the intersection of formal methods and AI. 
-    Specific interests are planning and learning in Markov decision processes (MDPs) and variations that extend these models with uncertainty, such as robust MDPs and partially observable MDPs. <br><br>
-    You can reach me at marnix.suilen {AT} ru.nl.
 ---
 
 
