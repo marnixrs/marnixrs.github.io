@@ -37,6 +37,9 @@ Paper presentations at conferences where the paper was accepted are omitted.
 
 ### Academic service
 
+**PC membership**:<br>
+AAMAS.
+
 **I have been a (sub)reviewer for**: <br> 
 AAAI, AAMAS, EUMAS, FASE, FM, ICML, ICSE, NeurIPS, QEST.
 
