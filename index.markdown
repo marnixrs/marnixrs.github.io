@@ -56,7 +56,7 @@ AAAI, AAMAS, EUMAS, FASE, FM, ICML, ICSE, L4DC, LICS, NeurIPS, QEST.
 
 ### Travels 
 
-I have been lucky enough to travel to the following places: Heraklion, Krete, Greece; Saarbrucken, Germany; Macao, SAR, China; Oxford, UK; Paris, France; Delft, The Netherlands; Washington DC, USA; Leiden, The Netherlands; Munich, Germany; Aachen, Germany; Schloss Dagstuhl, Germany. <br>
+I have been lucky enough to travel to the following places: Heraklion, Crete, Greece; Saarbrücken, Germany; Macao, SAR, China; Oxford, UK; Paris, France; Delft, The Netherlands; Washington DC, USA; Leiden, The Netherlands; Munich, Germany; Aachen, Germany; Schloss Dagstuhl, Germany. <br>
 
 
 
