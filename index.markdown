@@ -10,6 +10,7 @@ layout: home
 
 Paper presentations at conferences where the paper was accepted are omitted.
 - Robust and Reliable Reinforcement Learning. Dagstuhl Seminar 23492: [Model Learning for Improved Trustworthiness in Autonomous Systems](https://www.dagstuhl.de/en/seminars/seminar-calendar/seminar-details/23492).
+- Safe Policy Improvement for POMDPs. [BNAIC 2023](https://bnaic2023.tudelft.nl/).
 - Extending the Scope of Reliable Offline Reinforcement Learning. [AISOLA 2023](https://aisola.org/tracks/c2/monday/).
 - Offline Reinforcement Learning with Reliability Guarantees. [ROCKS 2023](https://www.modestchecker.net/rocks2023/).
 - Dependable Decision-Making Under Uncertainty: Beyond Probabilities. University of Oxford, UK, 2023.
