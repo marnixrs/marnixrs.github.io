@@ -55,7 +55,7 @@ layout: home
 - Sander Suverkropp: Quantifying uncertainty in robust Markov models. _ELLIS Excellence fellowship_, 2024.
 - Nikolay Kyosev: Diverse Data Generation in POMDPs for Offline Reinforcement Learning. Master thesis, 2024.
 - Eline Bovy: The Underlying Belief Model of Uncertain Partially Observable Markov Decision Processes. Master thesis, 2023. _BNAIC 2023 best thesis award_.
-- Mark Szeles: Probabilistic Automata (co-algebraically). Research internship, 2023.
+- Mark Széles: Probabilistic Automata (co-algebraically). Research internship, 2023.
 - Bram Pellen: Safety-Constrained Learning of Markov Decision Processes. Research internship, 2023.
 - Renato Feroce: Model Learning of Markov Decision Processes. Research internship, 2023.
 - Koen Verdenius: A POMDP model for safety-critical systems and its deteriorating sensors. Bachelor thesis, 2021.
