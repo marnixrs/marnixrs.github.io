@@ -7,6 +7,7 @@ layout: home
 ## Professional Activities 
 
 ### Talks and Presentations 
+- Robust and Reliable Planning and Learning Under Uncertainty. KTH, Sweden, 2024. _Invited talk_.
 - Robust and Reliable Reinforcement Learning. Dagstuhl Seminar 23492: [Model Learning for Improved Trustworthiness in Autonomous Systems](https://www.dagstuhl.de/en/seminars/seminar-calendar/seminar-details/23492), 2023.
 - Safe Policy Improvement for POMDPs. [BNAIC 2023](https://bnaic2023.tudelft.nl/).
 - Extending the Scope of Reliable Offline Reinforcement Learning. [AISOLA 2023](https://aisola.org/tracks/c2/monday/). _Invited talk_. 
@@ -25,6 +26,9 @@ layout: home
 - Robust Policy Synthesis for Uncertain POMDPs via Convex Optimization. IJCAI 2020.
 
 ### Research Visits and Invited Seminars
+- RPL Summer School 2024.
+- Division of Robotics, Perception and Learning, KTH. 2024.
+- Dagstuhl Seminar 24231: Stochastic Games. 2024
 - Dagstuhl Seminar 23492: Model Learning for Improved Trustworthiness in Autonomous Systems. 2023.
 - Department of Computer Science, University of Oxford. 2023.
 - Lorentz Center Workshop: Rigorous Automated Planning. 2022.
@@ -65,7 +69,7 @@ layout: home
 
 ## Travels 
 
-I have been lucky enough to travel to the following places: Heraklion, Crete, Greece; Saarbrücken, Germany; Macao, SAR, China; Oxford, UK; Paris, France; Delft, The Netherlands; Washington DC, USA; Leiden, The Netherlands; Munich, Germany; Aachen, Germany; Schloss Dagstuhl, Germany. <br>
+I have been lucky enough to travel to the following places: Stockholm, Sweden; Heraklion, Crete, Greece; Saarbrücken, Germany; Macao, SAR, China; Oxford, UK; Paris, France; Delft, The Netherlands; Washington DC, USA; Leiden, The Netherlands; Munich, Germany; Aachen, Germany; Schloss Dagstuhl, Wadern, Germany. <br>
 
 
 
