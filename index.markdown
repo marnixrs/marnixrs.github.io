@@ -35,14 +35,14 @@ layout: home
 - Department of Computer Science, RWTH Aachen. 2021.
 
 ### Academic Service
-- PC Member: AAMAS 2023.
+- PC Member: AAMAS 2023, AAMAS 2024.
 - External reviewer: AAAI, AAMAS, EUMAS, FASE, FM, ICML, ICSE, L4DC, LICS, NeurIPS, QEST.
 - Student volunteer at [IJCAI 2023](https://ijcai-23.org/).
 - Student volunteer for [FORMATS 2020](https://formats-2020.cs.ru.nl/), part of [QONFEST 2020](https://qonfest2020.github.io/).
 
 ### Organizational Service
 - Co-organizer of the _Academic Career Workshop_ of the iCIS Graduate School at Radboud University, March 27, 2024; 37 participants.
-- Representative in the iCIS Graduate School Council for the Department of Software Science at Radboud University.
+- Representative in the iCIS Graduate School Council for the Department of Software Science at Radboud University (2023-2024).
 - Organizer of the AI-FM reading group.
 
 ## Teaching
