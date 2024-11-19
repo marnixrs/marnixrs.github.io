@@ -57,7 +57,7 @@
           {%- elsif proceedings contains entry.type -%}
             In {{entry.booktitle}}</em> 
 	  {%- elsif entry.type == "inbook" -%}
-            In {{entry.booktitle}}</em>. {{entry.publisher}} 
+            In {{entry.booktitle}}</em>.{{" "}}{{entry.publisher}}. 
           {%- else -%}
             {%- capture entrytype -%}{%- endcapture -%}
           {%- endif -%}
