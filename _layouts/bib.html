@@ -53,11 +53,11 @@
 
       {% assign proceedings = "inproceedings, incollection" | split: ','%}
           {% if entry.type == "article" -%}
-            {{entry.journal}}.</em> 
+            {{entry.journal}}. 
           {%- elsif proceedings contains entry.type -%}
-            In {{entry.booktitle}}</em> 
+            In {{entry.booktitle}}. 
 	  {%- elsif entry.type == "inbook" -%}
-            In {{entry.booktitle}}</em>.{{" "}}{{entry.publisher}}. 
+            In {{entry.booktitle}}.
           {%- else -%}
             {%- capture entrytype -%}{%- endcapture -%}
           {%- endif -%}
