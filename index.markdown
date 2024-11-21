@@ -35,8 +35,8 @@ layout: home
 - Department of Computer Science, RWTH Aachen. 2021.
 
 ### Academic Service
-- PC Member: AAMAS 2023, AAMAS 2024.
-- External reviewer: AAAI, AAMAS, EUMAS, FASE, FM, ICML, ICSE, L4DC, LICS, NeurIPS, QEST.
+- PC Member: AAMAS 2024, AAMAS 2025.
+- External reviewer (multiple years): AAAI, AAMAS, EUMAS, FASE, FM, ICML, ICSE, L4DC, LICS, NeurIPS, QEST.
 - Student volunteer at [IJCAI 2023](https://ijcai-23.org/).
 - Student volunteer for [FORMATS 2020](https://formats-2020.cs.ru.nl/), part of [QONFEST 2020](https://qonfest2020.github.io/).
 
