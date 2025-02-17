@@ -7,4 +7,4 @@ gem "webrick", "~> 1.9", group: :jekyll_plugins
 gem "jekyll", group: :jekyll_plugins
 gem "jekyll-email-protect", group: :jekyll_plugins
 gem "jekyll-minifier", group: :jekyll_plugins
-gem "nokogiri", "~> 1.18"
+gem "nokogiri", "~> 1.15.2"
