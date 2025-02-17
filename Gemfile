@@ -8,4 +8,3 @@ gem "jekyll", group: :jekyll_plugins
 gem "jekyll-email-protect", group: :jekyll_plugins
 gem "jekyll-minifier", group: :jekyll_plugins
 gem "nokogiri", "~> 1.15.2"
-gem "uri", "~> 0.10.0.3"
